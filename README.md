@@ -1,7 +1,8 @@
 # SmartMotoIA
 
-Nome do Projeto
 Gabriel Yuji Suzuki - RM556588
+Lucas Felix Vassiliades - RM97677
+
 
 # Problema
 A Mottu enfrenta desafios no controle da localização das motos em pátios de múltiplas filiais. O monitoramento atual é manual, sujeito a erros, e afeta a eficiência operacional. O objetivo é automatizar o mapeamento, identificação e rastreamento das motos com uma solução baseada em Visão Computacional.
