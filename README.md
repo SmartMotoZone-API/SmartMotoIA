@@ -13,6 +13,7 @@ Detectar e rastrear visualmente motos em uma imagem/vídeo representando o páti
 # Tecnologias utilizadas 
 
 Componente                    Função
+
 OpenCV (cv2)                | Processamento de imagem e vídeo, detecção de movimento e objetos
 Torch                       | carregar e rodar o modelo YOLOv5
 YOLOv5/YOLOv8 (Ultralytics) | Detecção/classificação de motos
@@ -23,5 +24,15 @@ os                          | Proporciona interatividade com o sistema operacion
 
 # Instalar pacotes
 
-> pip install torch torchvision opencv-python pillow
+Digite no terminal:
 
+> pip install torch torchvision opencv-python pillow
+> pip install pandas
+> pip install requests
+> pip install seaborn
+
+# Como rodar o projeto
+
+Digite no terminal:
+
+> python detectar_motos.py
