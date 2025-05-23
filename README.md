@@ -1,8 +1,8 @@
 # SmartMotoIA
 
-Kaio Cumpian Silva - 99816
-Gabriel Yuji Suzuki - RM556588
-Lucas Felix Vassiliades - RM97677
+Kaio Cumpian Silva - 99816 <br/>
+Gabriel Yuji Suzuki - RM556588 <br/>
+Lucas Felix Vassiliades - RM97677 <br/>
 
 
 
@@ -14,27 +14,27 @@ Detectar e rastrear visualmente motos em uma imagem/vídeo representando o páti
 
 # Tecnologias utilizadas 
 
-Componente                    Função
+Componente                    Função <br/>
 
-OpenCV (cv2)                | Processamento de imagem e vídeo, detecção de movimento e objetos
-Torch                       | carregar e rodar o modelo YOLOv5
-YOLOv5/YOLOv8 (Ultralytics) | Detecção/classificação de motos
-Python                      | Lógica de IA e integração geral
-cv2.imshow                  | Visualização das detecções
-Pillow                      | É uma biblioteca para abrir, editar, salvar ou converter imagens
-os                          | Proporciona interatividade com o sistema operacional
+OpenCV (cv2)                | Processamento de imagem e vídeo, detecção de movimento e objetos <br/>
+Torch                       | carregar e rodar o modelo YOLOv5 <br/>
+YOLOv5/YOLOv8 (Ultralytics) | Detecção/classificação de motos <br/>
+Python                      | Lógica de IA e integração geral <br/>
+cv2.imshow                  | Visualização das detecções <br/>
+Pillow                      | É uma biblioteca para abrir, editar, salvar ou converter imagens <br/>
+os                          | Proporciona interatividade com o sistema operacional <br/>
 
 # Instalar pacotes
 
 Digite no terminal:
 
-> pip install torch torchvision opencv-python pillow
-> pip install pandas
-> pip install requests
-> pip install seaborn
+- pip install torch torchvision opencv-python pillow
+- pip install pandas
+- pip install requests
+- pip install seaborn
 
 # Como rodar o projeto
 
 Digite no terminal:
 
-> python detectar_motos.py
+- python detectar_motos.py
