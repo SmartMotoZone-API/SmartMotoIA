@@ -1,7 +1,9 @@
 # SmartMotoIA
 
+Kaio Cumpian Silva - 99816
 Gabriel Yuji Suzuki - RM556588
 Lucas Felix Vassiliades - RM97677
+
 
 
 # Problema
