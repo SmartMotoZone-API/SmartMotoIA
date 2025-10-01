@@ -28,7 +28,7 @@ os                          | Proporciona interatividade com o sistema operacion
 
 Digite no terminal:
 
-- pip install torch torchvision opencv-python pillow
+- pip install ultralytics opencv-python torch torchvision
 - pip install pandas
 - pip install requests
 - pip install seaborn
