@@ -1,6 +1,6 @@
 # SmartMotoIA
 
-Kaio Cumpian Silva - 99816 <br/>
+Luiz Eduardo Da Silva Pinto - RM555213 <br/>
 Gabriel Yuji Suzuki - RM556588 <br/>
 Lucas Felix Vassiliades - RM97677 <br/>
 
